@@ -1,2 +1,3 @@
 doc para testar o git 
 tesando a ferramenta interativa do git
+alterando branchs
